@@ -1,0 +1,134 @@
+[{
+      "week": 1,
+      "label": "Week 1",
+      "detail": "Sep 8-13",
+      "startDate": "2022-09-08T07:00Z",
+      "endDate": "2022-09-14T06:59Z"
+   }, {
+      "week": 2,
+      "label": "Week 2",
+      "detail": "Sep 14-20",
+      "startDate": "2022-09-14T07:00Z",
+      "endDate": "2022-09-21T06:59Z"
+   }, {
+      "week": 3,
+      "label": "Week 3",
+      "detail": "Sep 21-27",
+      "startDate": "2022-09-21T07:00Z",
+      "endDate": "2022-09-28T06:59Z"
+   }, {
+      "week": 4,
+      "label": "Week 4",
+      "detail": "Sep 28-Oct 4",
+      "startDate": "2022-09-28T07:00Z",
+      "endDate": "2022-10-05T06:59Z"
+   }, {
+      "week": 5,
+      "label": "Week 5",
+      "detail": "Oct 5-11",
+      "startDate": "2022-10-05T07:00Z",
+      "endDate": "2022-10-12T06:59Z"
+   }, {
+      "week": 6,
+      "label": "Week 6",
+      "detail": "Oct 12-18",
+      "startDate": "2022-10-12T07:00Z",
+      "endDate": "2022-10-19T06:59Z"
+   }, {
+      "week": 7,
+      "label": "Week 7",
+      "detail": "Oct 19-25",
+      "startDate": "2022-10-19T07:00Z",
+      "endDate": "2022-10-26T06:59Z"
+   }, {
+      "week": 8,
+      "label": "Week 8",
+      "detail": "Oct 26-Nov 1",
+      "startDate": "2022-10-26T07:00Z",
+      "endDate": "2022-11-02T06:59Z"
+   }, {
+      "week": 9,
+      "label": "Week 9",
+      "detail": "Nov 2-8",
+      "startDate": "2022-11-02T07:00Z",
+      "endDate": "2022-11-09T07:59Z"
+   }, {
+      "week": 10,
+      "label": "Week 10",
+      "detail": "Nov 9-15",
+      "startDate": "2022-11-09T08:00Z",
+      "endDate": "2022-11-16T07:59Z"
+   }, {
+      "week": 11,
+      "label": "Week 11",
+      "detail": "Nov 16-22",
+      "startDate": "2022-11-16T08:00Z",
+      "endDate": "2022-11-23T07:59Z"
+   }, {
+      "week": 12,
+      "label": "Week 12",
+      "detail": "Nov 23-29",
+      "startDate": "2022-11-23T08:00Z",
+      "endDate": "2022-11-30T07:59Z"
+   }, {
+      "week": 13,
+      "label": "Week 13",
+      "detail": "Nov 30-Dec 6",
+      "startDate": "2022-11-30T08:00Z",
+      "endDate": "2022-12-07T07:59Z"
+   }, {
+      "week": 14,
+      "label": "Week 14",
+      "detail": "Dec 7-13",
+      "startDate": "2022-12-07T08:00Z",
+      "endDate": "2022-12-14T07:59Z"
+   }, {
+      "week": 15,
+      "label": "Week 15",
+      "detail": "Dec 14-20",
+      "startDate": "2022-12-14T08:00Z",
+      "endDate": "2022-12-21T07:59Z"
+   }, {
+      "week": 16,
+      "label": "Week 16",
+      "detail": "Dec 21-27",
+      "startDate": "2022-12-21T08:00Z",
+      "endDate": "2022-12-28T07:59Z"
+   }, {
+      "week": 17,
+      "label": "Week 17",
+      "detail": "Dec 28-Jan 3",
+      "startDate": "2022-12-28T08:00Z",
+      "endDate": "2023-01-04T07:59Z"
+   }, {
+      "week": 18,
+      "label": "Week 18",
+      "detail": "Jan 4-11",
+      "startDate": "2023-01-04T08:00Z",
+      "endDate": "2023-01-12T07:59Z"
+   }, {
+      "week": 19,
+      "label": "Wild Card",
+      "detail": "Jan 12-17",
+      "startDate": "2023-01-12T08:00Z",
+      "endDate": "2023-01-18T07:59Z"
+   }, {
+      "week": 20,
+      "label": "Divisional Round",
+      "detail": "Jan 18-24",
+      "startDate": "2023-01-18T08:00Z",
+      "endDate": "2023-01-25T07:59Z"
+   }, {
+      "week": 21,
+      "label": "Conference Championship",
+      "detail": "Jan 25-31",
+      "startDate": "2023-01-25T08:00Z",
+      "endDate": "2023-02-01T07:59Z"
+   }, {
+      "week": 22,
+      "label": "Super Bowl",
+      "detail": "Feb 8-14",
+      "startDate": "2023-02-08T08:00Z",
+      "endDate": "2023-02-15T07:59Z"
+   }
+]

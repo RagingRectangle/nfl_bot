@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "emojiGuildID": "",
+    "slashGuildIDs": [""],
+    "selectPicksCommand": "select",
+    "showoffPicksCommand": "showoff",
+    "userStatsCommand": "stats",
+    "betsCommand": "bets",
+    "cashDefault": 1000,
+    "database": {
+        "host": "",
+        "port": 3306,
+        "user": "",
+        "password": "",
+        "database": ""
+    }
+}
