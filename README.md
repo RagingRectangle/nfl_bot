@@ -45,8 +45,7 @@ node database.js (Create db tables)
 - **userStatsCommand:** Command for looking up stats of a user.
 - **betsCommand:** Command to see your pending bets.
 - **cashDefault:** How much money users start with.
-- **database:** Basic db info.
-```  
+- **database:** Basic db info.  
  
   
   
