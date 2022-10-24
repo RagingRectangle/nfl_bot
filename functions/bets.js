@@ -294,8 +294,7 @@ module.exports = {
             console.log(`Error adding user bet: ${err}`);
          }
       };
-
-      let pendingResults = await runPendingQuery(`SELECT * FROM bets WHERE user_id = "${interaction.user.id}" AND guild_id = "${interaction.guildId}"`);
+      let pendingResults = await runPendingQuery(`SELECT * FROM bets WHERE user_id = "${interaction.user.id}" AND guild_id = "${interaction.guildId}" AND result = "pending";`);
       var betCount = 0;
       var pendingEmbed = new EmbedBuilder();
       for (var p in pendingResults) {
@@ -324,7 +323,7 @@ module.exports = {
       } //End of p loop
       if (betCount == 0) {
          interaction.reply({
-            embeds: [new EmbedBuilder().setTitle(`${interaction.user.username}'s Pending Bets:`).setColor('Red').setDescription('No bets have been placed this week.')]
+            embeds: [new EmbedBuilder().setTitle(`${interaction.user.username}'s Pending Bets:`).setColor('Red').setDescription('No pending bets for this week.')]
          }).catch(console.error);
       } else {
          pendingEmbed.setTitle(`${interaction.user.username}'s ${betCount} Pending Bets:`).setColor('006E13');

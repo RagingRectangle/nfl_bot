@@ -188,8 +188,8 @@ module.exports = {
 
 
    awardWinners: async function awardWinners(client) {
-      let events = JSON.parse(fs.readFileSync('./data/current_week.json'));
       await new Promise(done => setTimeout(done, 10000));
+      let events = JSON.parse(fs.readFileSync('./data/current_week.json'));
       runAwardWinnersQuery = (query) => {
          try {
             var dbConfig = config.database;
